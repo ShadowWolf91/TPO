@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICWnBIO", "ICanWiin\ICWnBIO.csproj", "{A04C5412-5D5B-43CB-B14D-69C928B9DF46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LenovoTest", "TestProject1\LenovoTest.csproj", "{FBF3202D-D4FC-4507-BB18-6FD44EC7C0C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A04C5412-5D5B-43CB-B14D-69C928B9DF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04C5412-5D5B-43CB-B14D-69C928B9DF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04C5412-5D5B-43CB-B14D-69C928B9DF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04C5412-5D5B-43CB-B14D-69C928B9DF46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF3202D-D4FC-4507-BB18-6FD44EC7C0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF3202D-D4FC-4507-BB18-6FD44EC7C0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF3202D-D4FC-4507-BB18-6FD44EC7C0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF3202D-D4FC-4507-BB18-6FD44EC7C0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B407F46-F8C9-4FED-AF99-8E18F734859B}
+	EndGlobalSection
+EndGlobal
